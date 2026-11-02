@@ -141,3 +141,10 @@ uv run --extra test pytest -q
 
 Tests use simulated external services and do not require API keys. To verify
 provider access and live responses, run the notebooks with your own credentials.
+
+
+## What I've Learnt
+
+November 2nd: 
+
+
